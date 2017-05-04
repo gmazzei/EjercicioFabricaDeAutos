@@ -14,7 +14,7 @@ public class Start {
 
 	public static void main(String[] args) {
 	
-		//Pruebas
+		//Los mismos tests de JUnit
 		precioDeUnSedanSinOpcionales();
 		
 		precioDeUnFamiliarSinOpcionales();
